@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 29531ec0daa9940058966fcec22abc6c
+timeCreated: 1477623319
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - alien: {fileID: 159426, guid: bc72da211169d4513b12ddecc5c185ed, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
